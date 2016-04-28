@@ -196,6 +196,18 @@
   <ItemGroup>
     <None Include="Resources\fish1.png" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\correct.jpg" />
+    <Content Include="Resources\correct1.WAV" />
+    <Content Include="Resources\image1.png" />
+    <Content Include="Resources\image2.png" />
+    <Content Include="Resources\image3.png" />
+    <Content Include="Resources\image4.png" />
+    <Content Include="Resources\image5.png" />
+    <Content Include="Resources\ok.jpg" />
+    <Content Include="Resources\tryagain.jpg" />
+    <Content Include="Resources\tryagain1.WAV" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
